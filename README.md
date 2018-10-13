@@ -39,4 +39,8 @@
         
         push(推送)快捷键：Ctrl + Shift + K
         
-5. 
+5. IDEA社区版集成Tomcat(3种方式)：
+
+        在IDEA中配置tomcat
+        使用tomcat的maven插件
+        已debug方式运行程序

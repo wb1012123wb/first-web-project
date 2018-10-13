@@ -33,4 +33,8 @@
         
         Ctrl + Alt + A：选择需要提交的文件(注：如果开启了QQ，需要解决热键冲突问题)
         
+        提交时，可勾选"Optimize imports"选项，优化import语句。
+        
+        提交快捷键：Ctrl+K
+        
 5. 

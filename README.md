@@ -35,6 +35,8 @@
         
         提交时，可勾选"Optimize imports"选项，优化import语句。
         
-        提交快捷键：Ctrl+K
+        "Commit Changes"(将修改提交到本地仓库)快捷键：Ctrl+K
+        
+        push(推送)快捷键：Ctrl + Shift + K
         
 5. 
